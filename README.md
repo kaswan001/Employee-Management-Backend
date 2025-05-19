@@ -34,7 +34,7 @@ A robust and secure employee management system built with Spring Boot that provi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/kaswan001/Employee-Management-Backend.git
 ```
 
 2. Configure MySQL database in `src/main/resources/application.properties`:
