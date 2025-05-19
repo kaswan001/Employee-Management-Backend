@@ -41,7 +41,7 @@ git clone <repository-url>
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/employee
 spring.datasource.username=root
-spring.datasource.password=root123
+spring.datasource.password=your password
 ```
 
 3. Build the project:
